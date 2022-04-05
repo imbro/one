@@ -1,0 +1,32 @@
+/*
+#ff6e68
+#ffeead
+#96ceb4
+#28282B
+
+*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+}
+
+
+h1 {
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: #ffeead;
+    box-sizing: border-box;
+    background-color: #96ceb4;
+    list-style-type: none;
+    font-family: 'Kalam', cursive;
+
+}
+
+h6 {
+    text-align: center;
+    color: #ff6e68;
+}
+
